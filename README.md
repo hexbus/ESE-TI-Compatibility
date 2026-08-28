@@ -55,3 +55,13 @@ authorized.
 The engineering project and its release archives contain the assembler,
 conversion tools, manifests, emulator tests, recovered-source notes, and the
 complete chronological worklog.
+
+## License and attribution
+
+- Original documentation: [CC BY 4.0](LICENSE-DOCUMENTATION.md)
+- Original source code and tooling: [Apache License 2.0](LICENSE-CODE.txt)
+- Required Apache attribution notice: [NOTICE](NOTICE)
+- Scope and third-party exclusions: [LICENSE.md](LICENSE.md)
+
+Copyright (c) 2026 hexbus. The licenses do not grant redistribution rights to
+TI/Tomy ROMs, GROMs, manuals, logos, or other third-party material.
