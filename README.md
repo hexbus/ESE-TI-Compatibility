@@ -22,6 +22,7 @@ ESE Game Adapter                     Tanam ROM/RAM cartridge
 
 ## Documentation
 
+- [Complete technical documentation index](docs/README.md)
 - [How the compatibility system works](docs/HOW-IT-WORKS.md)
 - [Hardware and memory map](docs/HARDWARE-AND-MEMORY.md)
 - [Converting and running GROM modules](docs/USING-GROM-MODULES.md)
