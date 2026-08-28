@@ -1,3 +1,6 @@
+<!-- SPDX-FileCopyrightText: 2026 hexbus -->
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+
 # Tutor-to-TI-99/4A joystick translation plan
 
 Joystick support belongs in the compatibility BIOS, alongside keyboard

@@ -19,8 +19,8 @@ creator identification, copyright notice, license notice, warranty notice,
 and repository URI to the extent reasonably practicable, and indicate whether
 you modified it. The designated creator name and source are:
 
-> Tomy Tutor/Pyuuta (ぴゅう太) ESE TI-99 Compatibility Shim v3.0  
-> Copyright (c) 2026 hexbus  
+> Tomy Tutor/Pyuuta (ぴゅう太) ESE TI-99 Compatibility Shim v3.0<br>
+> Copyright (c) 2026 hexbus<br>
 > <https://github.com/hexbus/ESE-TI-Compatibility>
 
 ## Original software and build tooling

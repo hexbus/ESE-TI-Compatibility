@@ -1,3 +1,6 @@
+<!-- SPDX-FileCopyrightText: 2026 hexbus -->
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+
 # Making a Tanam W27C512 ROM from TI GROM Dumps
 
 ## Scope

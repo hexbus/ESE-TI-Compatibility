@@ -1,3 +1,6 @@
+<!-- SPDX-FileCopyrightText: 2026 hexbus -->
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+
 # Tomy Tutor/Pyuuta (ぴゅう太) ESE TI-99 Compatibility Shim v3.0
 
 This directory is a public technical overview of a compatibility BIOS that

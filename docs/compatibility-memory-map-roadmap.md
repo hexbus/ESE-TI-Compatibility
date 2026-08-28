@@ -1,3 +1,6 @@
+<!-- SPDX-FileCopyrightText: 2026 hexbus -->
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+
 # Tutor TI compatibility memory-map roadmap
 
 This document separates the map that is proved on the existing ESE and Tanam

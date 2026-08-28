@@ -1,3 +1,6 @@
+<!-- SPDX-FileCopyrightText: 2026 hexbus -->
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+
 # Running TI-99 GPL cartridges on a Tomy Tutor/Pyuuta
 
 ## Short explanation

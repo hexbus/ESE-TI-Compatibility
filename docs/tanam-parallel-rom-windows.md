@@ -1,3 +1,6 @@
+<!-- SPDX-FileCopyrightText: 2026 hexbus -->
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+
 # Tanam Parallel ROM Windows and W27C512 Byte Layout
 
 ## Purpose

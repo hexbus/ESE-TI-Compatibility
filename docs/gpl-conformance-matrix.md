@@ -1,3 +1,6 @@
+<!-- SPDX-FileCopyrightText: 2026 hexbus -->
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+
 # GPL conformance matrix
 
 This matrix compares the compact Pyuuta interpreter with the exact dispatch

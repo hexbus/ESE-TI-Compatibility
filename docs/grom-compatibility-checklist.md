@@ -1,3 +1,6 @@
+<!-- SPDX-FileCopyrightText: 2026 hexbus -->
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+
 # Tomy Tutor TI GROM compatibility checklist
 
 This is the shared queue for testing the custom Tutor/TI compatibility BIOS.

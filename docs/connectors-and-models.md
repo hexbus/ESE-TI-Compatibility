@@ -1,3 +1,6 @@
+<!-- SPDX-FileCopyrightText: 2026 hexbus -->
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+
 # Pyuuta/Tutor Connectors and Model Variants
 
 This page normalizes the conflicting connector information collected so far. A signal listed here is not automatically proof of its electrical behavior; see the evidence ledger for confidence and validation status.
