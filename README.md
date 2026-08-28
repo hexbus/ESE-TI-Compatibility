@@ -1,4 +1,4 @@
-# Tomy Tutor/Pyuuta TI-99 compatibility BIOS
+# Tomy Tutor/Pyuuta (ぴゅう太) ESE TI-99 Compatibility Shim v3.0
 
 This directory is a public technical overview of a compatibility BIOS that
 runs selected TI-99/4A cartridge software on a Tomy Tutor/Pyuuta using an ESE
